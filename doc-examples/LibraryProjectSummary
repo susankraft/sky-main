@@ -1,0 +1,53 @@
+# SBSEG Commercial Technology (Com/Tech) Library Project Summary
+
+## Context
+This research project aims to design a documentation portal for SBSEG Sales and Marketing to better understand Com/Tech operations.
+
+## Customer Problem
+Sales and Marketing face issues with communication and understanding Com/Tech's role and capabilities, leading to a sense of disconnection. Key pain points include:
+- Unclear how to ask for help
+- Lack of knowledge about Com/Tech capabilities and updates
+- Plans based on assumptions, not facts
+
+## Solution and Goals
+Create a Com/Tech information knowledge base for Sales and Marketing to improve visibility into Com/Tech operations. This platform will facilitate clear communication and provide relevant content without dictating Com/Tech's internal processes.
+
+### Content
+The knowledge base will include:
+- Purpose, organization, vision, and goals of each Com/Tech group
+- Release notes, videos, user guides, and other informative files focused on Sales and Marketing
+- Processes, release rhythms, and roadmaps
+
+### Platform Requirements
+The platform must be:
+- Searchable, durable, and taggable
+- Accurate and capable of delivering content seamlessly
+- Updated regularly with notifications to document owners
+- Able to handle communications of completed work
+
+## Progress Report
+Initial content and platform criteria were defined and tested with the Campaign Manager. Key inquiries include:
+- Assessing current shared information to inform the knowledge base architecture
+- Providing a platform for release notes, videos, and user guides
+- Designing a content population process
+- Reviewing the CM GitHub web page for design and content delivery
+
+## Next Steps
+Identify and define requirements to tailor the platform and file structure for Marketing and Sales. The initial proposal includes:
+- Content architecture with a platform capabilities matrix
+- Platform governance and evaluation
+
+## References
+- *Knowledge Management Implementation in a Library*, Simmons College & Japan Advanced Institute of Science and Technology
+- *Searching the Enterprise*, Essense of Knowledge Publishers
+
+## Notes on CQL
+Questions posted to Atlassian Community about doc date tracking solutions, potential code solutions, and CQL query examples for Confluence.
+
+- [Advanced Searching using CQL](https://developer.atlassian.com/server/confluence/advanced-searching-using-cql/)
+- [Performing Text Searches using CQL](https://developer.atlassian.com/server/confluence/performing-text-searches-using-cql/)
+
+Related info on Jira side:
+- JQL Advanced Searching - Fields Reference
+- JQL Advanced Searching - Operators Reference
+- JQL Advanced Searching - Functions
