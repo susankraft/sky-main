@@ -7,9 +7,9 @@ This document is written for InfoSec techincal writers. It describes how to setu
 <big> **Table of Contents** </big>
 
 - [Setting up your Mac to use git tools on COMPANY IS files](#setting-up-your-mac-to-use-git-tools-on-COMPANY-is-files)  
-- [Overview](#overview)  
-- [GitHub and Secure Shell Keys](#github-and-secure-shell-keys)  
-   * [Check and generate public and private SSH keys](#check-and-generate-public-and-private-ssh-keys) 
+- [Overview](#Overview)  
+- [GitHub and Secure Shell Keys](#Github-and-Secure-Shell-Keys)  
+   * [Check and generate public and private SSH keys](#Check-and-generate-public-and-private-SSH-keys) 
    * [Permanently authorize SSH key](#permanently-authorize-ssh-key)   
    * [Add SSH key to GitHub](#add-ssh-key-to-github)  
 - [Preparing to use GitX](#preparing-to-use-gitx)   
