@@ -10,13 +10,13 @@ This document is written for InfoSec techincal writers. It describes how to setu
 - [Overview](#Overview)  
 - [GitHub and Secure Shell Keys](#Github-and-Secure-Shell-Keys)  
    * [Check and generate public and private SSH keys](#Check-and-generate-public-and-private-SSH-keys) 
-   * [Permanently authorize SSH key](#permanently-authorize-ssh-key)   
-   * [Add SSH key to GitHub](#add-ssh-key-to-github)  
-- [Preparing to use GitX](#preparing-to-use-gitx)   
-   * [Clone a repository with git and GitHub](#clone-a-repository-with-git-and-github) 
-   * [Link GitX to your local Mac repository](#link-gitx-to-your-local-mac-repository) 
-- [Using GitX to manage updates](#using-gitx-to-manage-updates) 
-- [Summary](#summary)
+   * [Permanently authorize SSH key](#Permanently-authorize-SSH-key)   
+   * [Add SSH key to GitHub](#Add-SSH-key-to-GitHub)  
+- [Preparing to use GitX](#Preparing-to-use-GitX)   
+   * [Clone a repository with git and GitHub](#Clone-a-repository-with-git-and-GitHub) 
+   * [Link GitX to your local Mac repository](#Link-GitX-to-your-local-Mac-repository) 
+- [Using GitX to manage updates](#using-GitX-to-manage-updates) 
+- [Summary](#Summary)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 <hr>
